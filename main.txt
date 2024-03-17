@@ -7,7 +7,7 @@ line 6 edited (changes from pycharm)
 line 7
 line 8 
 line 9
-line 10 changer from master
+line 10 changes from feature 5
 line 11
 line 12
 line 13
